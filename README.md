@@ -69,8 +69,6 @@ Foram comparados o Aço ST37 e o Alumínio AW 6063 para os perfis estruturais, c
 
 Foram realizados cálculos analíticos detalhados para determinar as reações nos apoios e os diagramas de esforços internos (normais, cortantes e momentos fletores) para os componentes críticos. A imagem abaixo ilustra um dos Diagramas de Corpo Livre (DCL) e os cálculos de momento para determinar as forças em jogo, considerando uma força de 550N aplicada.
 
-![Cálculos de Esforços e DCL](assets/calculos_dcl.jpg)
-
 **Cálculo do Momento Fletor:**
 
 Para determinar a força `X` que equilibra os momentos, utilizou-se a equação de equilíbrio de momentos:
